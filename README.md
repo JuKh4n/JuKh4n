@@ -1,7 +1,7 @@
 # Juliano Souza
 
 
-**`Desenvolvedor Fullstack em formação`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Juliano Souza, tenho 25 anos e iniciei minha trajetória na área de Tecnologia da Informação em 2016, atuando com manutenção de máquinas e sistemas. Em meados de 2020, tive meu primeiro contato com programação e decidi direcionar meus estudos para o desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ulbra, aprimorando minhas habilidades e expandindo meus conhecimentos para criar soluções eficientes e bem estruturadas.
 
